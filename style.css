@@ -1,0 +1,107 @@
+/* ------ header ------ */
+.redes-sociais {
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.redes-sociais a {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+}
+
+.bi {
+    color: #FFF;
+}
+
+.nav {
+    box-shadow: 0 4px 4px rgb(0, 0, 0, 0.1);
+    background-color: #EB5353;
+    display: flex;
+    justify-content: center;
+}
+
+.img-logo {
+    max-width: 300px;
+}
+
+/* ------ Corpo ------ */
+.container {
+    padding-top: 20px; 
+}
+
+.titulo {
+    text-align: center;
+    color: black;
+}
+
+.rows {
+    display: flex;
+}
+
+.card{
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.email {
+    background-color: #C2DED1;
+    padding-top: 20px;
+    padding-bottom: 70px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.email-group {
+    display: flex;
+    justify-content: center;
+}
+
+.input-group {
+    padding-top: 40px;
+    max-width:  400px;
+}
+
+
+/* ------ footer ------ */
+.rodape {
+    width: 100%;
+    position: absolute;
+}
+
+.wrapper {
+    background-color: rgb(26, 25, 25);
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.informacoes {
+    padding: 10px;
+}
+
+.informacoes h4 {
+    color: #C0C0C0;
+}
+
+.informacoes p {
+    color: #FFF;
+}
+
+.info-contatos {
+    padding-top: 40px;
+}
+
+.maps {
+    max-width: 500px;
+    max-height: 300px;
+}
+
+.containerfooter {
+    background-color: black;
+    padding: 20px 20px;
+    color: #FFF; 
+    text-align: center;   
+}
